@@ -16,7 +16,8 @@ It is a training project that was created to show my skills in JavaCore, JDBC, a
 1. Download Tomcat (version 9.0.50) and add dependencies to pom.xml
 2. Download MySQL Workbench if needed. Use resource/init_db.sql to create a DB and add dependencies to pom.xml
 3. Add path to your Workbench, password, and username in util/ConnectionUtil to be able to connect to DB.
-4. If you want to see logs, please go to the Tomcat directory.
+4. If you want to see logs, please go to the Tomcat directory
+(if you have a problem with access to your Tomcat, please, use the absolute path to create logs).
 
 ## Technologies
 * JDK 11 (Ultimate Edition)
